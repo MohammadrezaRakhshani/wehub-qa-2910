@@ -1,0 +1,12 @@
+{
+  "actionId": "a0000000-0000-0000-0000-000000000041",
+  "kind": "processor",
+  "label": "Step B",
+  "settings": {
+    "label": "Step B",
+    "schema_id": "236f4b3f-494d-4b10-b3d0-78e651c30390"
+  },
+  "version": 2,
+  "x": 673,
+  "y": 660.9411764705882
+}

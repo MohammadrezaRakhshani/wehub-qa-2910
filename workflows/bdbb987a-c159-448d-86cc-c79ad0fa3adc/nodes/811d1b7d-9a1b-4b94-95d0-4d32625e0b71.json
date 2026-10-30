@@ -1,0 +1,13 @@
+{
+  "actionId": "a0000000-0000-0000-0000-000000000009",
+  "kind": "trigger",
+  "label": "Trigger",
+  "settings": {
+    "label": "Trigger",
+    "schedule_type": "daily",
+    "timezone": "Europe/London"
+  },
+  "version": 2,
+  "x": 413,
+  "y": 384
+}
